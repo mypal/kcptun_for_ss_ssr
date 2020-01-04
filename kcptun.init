@@ -6,7 +6,7 @@
 #=======================================================
 #   System Required:  CentOS/Debian/Ubuntu (32bit/64bit)
 #   Description:  Manager for kcptun
-#   Intro:  https://github.com/onekeyshell/kcptun_for_ss_ssr/issues
+#   Intro:  https://github.com/mypal/kcptun_for_ss_ssr/issues
 #=======================================================
 ### BEGIN INIT INFO
 # Provides:          kcptun
@@ -42,7 +42,7 @@ fun_clangcn()
     echo "+----------------------------------------------------------------+"
     echo "|                        Manager for kcptun                      |"
     echo "+----------------------------------------------------------------+"
-    echo "| Intro: https://github.com/onekeyshell/kcptun_for_ss_ssr/issues |"
+    echo "| Intro: https://github.com/mypal/kcptun_for_ss_ssr/issues |"
     echo "+----------------------------------------------------------------+"
     echo
 }

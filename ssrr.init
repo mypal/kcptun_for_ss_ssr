@@ -12,7 +12,7 @@
 # Description:       Start or stop the ShadowsocksR server
 ### END INIT INFO
 
-# Intro:  https://github.com/onekeyshell/kcptun_for_ss_ssr/issues
+# Intro:  https://github.com/mypal/kcptun_for_ss_ssr/issues
 
 NAME=Shadowsocksrr
 BIN=/usr/local/shadowsocksrr/shadowsocks/server.py
